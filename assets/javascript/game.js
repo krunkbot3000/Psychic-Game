@@ -95,5 +95,5 @@ document.onkeyup = function (event) {
     winsText.textContent = "Wins: " + wins;
     lossesText.textContent = "Losses: " + losses;
     guessLeftText.textContent = "Guesses remaining: " + guessesLeft;
-    userGuessText.textContent = "Your guesS: " + userGuesses;
+    userGuessText.textContent = "Your guesAS: " + userGuesses;
 };
